@@ -1,0 +1,22 @@
+{
+    "name": "nord-deep",
+    "displayName": "Nord Deep",
+    "description": "A new theme for Vscode based on Nord",
+    "publisher": "Marlos",
+    "version": "0.1.0",
+    "engines": {
+        "vscode": "^1.39.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Nord Deep",
+                "uiTheme": "vs-dark",
+                "path": "./themes/nord-deep-color-theme.json"
+            }
+        ]
+    }
+}
