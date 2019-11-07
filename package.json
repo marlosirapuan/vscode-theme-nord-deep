@@ -3,7 +3,7 @@
     "displayName": "Nord Deep",
     "description": "A new theme for Vscode based on Nord",
     "repository": "https://github.com/marlosirapuan/nord-deep-vscode-theme",
-    "publisher": "Marlos",
+    "publisher": "marlosirapuan",
     "version": "0.1.0",
     "engines": {
         "vscode": "^1.39.0"
