@@ -1,10 +1,10 @@
 {
     "name": "nord-deep",
     "displayName": "Nord Deep",
-    "description": "A new theme for Vscode based on Nord",
+    "description": "Another Nord-based vscode theme",
     "repository": "https://github.com/marlosirapuan/vscode-theme-nord-deep",
     "publisher": "marlosirapuan",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "icon": "icon.png",
     "engines": {
         "vscode": "^1.39.0"

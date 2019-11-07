@@ -1,5 +1,5 @@
 # Nord Deep
-## Yep. Another Nord-based Vscode theme
+## Yep. Another Nord-based vscode theme
 
 [![Version](https://vsmarketplacebadge.apphb.com/version/marlosirapuan.nord-deep.svg)](https://marketplace.visualstudio.com/items?itemName=marlosirapuan.nord-deep)
 [![Installs](https://vsmarketplacebadge.apphb.com/installs/marlosirapuan.nord-deep.svg)](https://marketplace.visualstudio.com/items?itemName=marlosirapuan.nord-deep)
