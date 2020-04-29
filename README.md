@@ -14,6 +14,25 @@ See [CHANGELOG.md](./CHANGELOG.md)
 ### Feature
 * HMLTL, CSS, Javascript, Typescript, Ruby, PHP, Elixir, Python, Java, C, C++
 
+#### Suggested extension to use with the theme
+
+[indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+
+```json
+    "indentRainbow.colors": [
+        "rgba(16,16,16,0.1)",
+        "rgba(16,16,16,0.2)",
+        "rgba(16,16,16,0.3)",
+        "rgba(16,16,16,0.4)",
+        "rgba(16,16,16,0.5)",
+        "rgba(16,16,16,0.6)",
+        "rgba(16,16,16,0.7)",
+        "rgba(16,16,16,0.8)",
+        "rgba(16,16,16,0.9)",
+        "rgba(16,16,16,1.0)"
+    ],
+```
+
 ### Screenshot
 ![Screenshot](https://github.com/marlosirapuan/vscode-theme-nord-deep/raw/master/screenshot.png)
 
