@@ -652,6 +652,15 @@
 				"foreground": "#D8DEE9"
 			}
 		},
+    {
+      "name": "Source Elixir Variable Other",
+      "scope": [
+        "source.elixir variable.other"
+      ],
+      "settings": {
+        "foreground": "#8FBCBB"
+      }
+    },
 		{
 			"name": "Variable Language",
 			"scope": "variable.language",

@@ -4,7 +4,7 @@
     "description": "Another Nord-based vscode theme",
     "repository": "https://github.com/marlosirapuan/vscode-theme-nord-deep",
     "publisher": "marlosirapuan",
-    "version": "0.1.4",
+    "version": "0.1.5",
     "icon": "icon.png",
     "engines": {
         "vscode": "^1.39.0"
