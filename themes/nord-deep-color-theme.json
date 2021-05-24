@@ -3,7 +3,6 @@
 	"type": "dark",
 	"colors": {
 		"activityBar.background": "#292D38",
-		"activityBar.dropBackground": "#3b4252",
 		"activityBar.foreground": "#d8dee9",
 		"activityBar.activeBorder": "#88c0d0",
 		"activityBar.activeBackground": "#3b4252",
@@ -184,7 +183,8 @@
 		"statusBarItem.prominentHoverBackground": "#434c5e",
 		"tab.activeBackground": "#3b4252",
 		"tab.activeBorder": "#88c0d000",
-		"tab.activeBorderTop": "#88c0d000",
+		"tab.activeModifiedBorder": "#88c0d0",
+		"tab.activeBorderTop": "#88c0d0",
 		"tab.activeForeground": "#d8dee9",
 		"tab.border": "#3b425200",
 		"tab.hoverBackground": "#3b4252cc",
@@ -419,16 +419,14 @@
 			"name": "Invalid Deprecated",
 			"scope": "invalid.deprecated",
 			"settings": {
-				"foreground": "#D8DEE9",
-				"background": "#EBCB8B"
+				"foreground": "#D8DEE9"
 			}
 		},
 		{
 			"name": "Invalid Illegal",
 			"scope": "invalid.illegal",
 			"settings": {
-				"foreground": "#D8DEE9",
-				"background": "#BF616A"
+				"foreground": "#D8DEE9"
 			}
 		},
 		{
