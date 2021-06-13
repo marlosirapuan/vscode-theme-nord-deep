@@ -111,7 +111,7 @@
 		"inputValidation.infoBorder": "#81a1c1",
 		"inputValidation.warningBackground": "#d08770",
 		"inputValidation.warningBorder": "#d08770",
-		"list.activeSelectionBackground": "#88c0d0",
+		"list.activeSelectionBackground": "#88c0d0", //
 		"list.activeSelectionForeground": "#232731",
 		"list.dropBackground": "#88c0d099",
 		"list.errorForeground": "#bf616a",
@@ -124,6 +124,9 @@
 		"list.inactiveSelectionBackground": "#434c5e",
 		"list.inactiveSelectionForeground": "#d8dee9",
 		"list.warningForeground": "#ebcb8b",
+    "list.focusHighlightForeground": "#292D38",
+    "editorSuggestWidget.selectedForeground":"#88c0d0",
+    "quickInput.background": "#232731",
 		"merge.border": "#3b425200",
 		"merge.currentContentBackground": "#81a1c14d",
 		"merge.currentHeaderBackground": "#81a1c166",
