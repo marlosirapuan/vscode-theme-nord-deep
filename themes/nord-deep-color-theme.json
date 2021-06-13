@@ -124,7 +124,7 @@
 		"list.inactiveSelectionBackground": "#434c5e",
 		"list.inactiveSelectionForeground": "#d8dee9",
 		"list.warningForeground": "#ebcb8b",
-    "list.focusHighlightForeground": "#292D38",
+    "list.focusHighlightForeground": "#fff",
     "editorSuggestWidget.selectedForeground":"#88c0d0",
     "quickInput.background": "#232731",
 		"merge.border": "#3b425200",
