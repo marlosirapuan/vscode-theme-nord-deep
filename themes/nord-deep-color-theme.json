@@ -111,8 +111,8 @@
 		"inputValidation.infoBorder": "#81a1c1",
 		"inputValidation.warningBackground": "#d08770",
 		"inputValidation.warningBorder": "#d08770",
-		"list.activeSelectionBackground": "#88c0d0", //
-		"list.activeSelectionForeground": "#232731",
+		"list.activeSelectionBackground": "#81a1c14d", //
+		"list.activeSelectionForeground": "#88c0d0",
 		"list.dropBackground": "#88c0d099",
 		"list.errorForeground": "#bf616a",
 		"list.focusBackground": "#88c0d099",

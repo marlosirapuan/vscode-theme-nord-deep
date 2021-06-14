@@ -3,6 +3,10 @@
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.1.622] - 2021-06-13
+
+- Fix color list.activeSelectionBackground for autocomplete
+- Fix color list.activeSelectionForeground for autocomplete
 ## [0.1.621] - 2021-06-13
 
 - Fix color list.focusHighlightForeground for autocomplete
