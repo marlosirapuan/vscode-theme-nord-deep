@@ -12,7 +12,7 @@ Press `CTRL/CMD+P` and run `ext install nord-deep` or search for "nord deep" in 
 See [CHANGELOG.md](./CHANGELOG.md)
 
 ### Feature
-* HMLTL, CSS, Javascript, Typescript, Ruby, PHP, Elixir, Python, Java, C, C++
+* HTML, CSS, Javascript, Typescript, Ruby, PHP, Elixir, Python, Java, C, C++
 
 #### Suggested extension to use with the theme
 
