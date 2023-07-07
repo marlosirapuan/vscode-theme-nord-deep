@@ -1,8 +1,8 @@
 # Nord Deep
 ## Yep. Another Nord-based vscode theme (...and a little darker)
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/marlosirapuan.nord-deep.svg)](https://marketplace.visualstudio.com/items?itemName=marlosirapuan.nord-deep)
-[![Installs](https://vsmarketplacebadge.apphb.com/installs/marlosirapuan.nord-deep.svg)](https://marketplace.visualstudio.com/items?itemName=marlosirapuan.nord-deep)
+[![Version](https://img.shields.io/visual-studio-marketplace/v/marlosirapuan.nord-deep)](https://marketplace.visualstudio.com/items?itemName=marlosirapuan.nord-deep)
+[![Installs](https://img.shields.io/visual-studio-marketplace/i/marlosirapuan.nord-deep)](https://marketplace.visualstudio.com/items?itemName=marlosirapuan.nord-deep)
 
 ### Install
 Press `CTRL/CMD+P` and run `ext install nord-deep` or search for "nord deep" in extensions.
